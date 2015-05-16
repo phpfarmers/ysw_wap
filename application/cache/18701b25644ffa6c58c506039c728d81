@@ -1,0 +1,158 @@
+1427780328TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>资料-游商网</title>
+<meta content="创业,游商网,融资网站,游戏品台" name="keywords">
+<meta content="游商网,第一个做融资网络游戏的平台！" name="description">
+<meta content="游商网" name="author">
+<meta content="游商网" name="copyright">
+<meta content="index, follow" name="robots">
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/common.css" type="text/css"/>
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/top12.css" type="text/css"/>
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/login.css" type="text/css">
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/search.css" type="text/css">
+<link href="http://192.168.1.105/resource/public/images/i16.png" sizes="16*16" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i32.png" sizes="32*32" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i48.png" sizes="48*48" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i96.png" sizes="96*96" type="images/png" rel="icon">
+<script type="text/javascript" src="http://192.168.1.105/resource/public/js/jquery.js"></script>
+</head>
+
+<body>
+<div class="header_12">
+	<div class="nav_12">
+		<div class="nav_main_12">
+			<div class="nav_right_12">
+				<ul>
+										<li>你好！<a href="http://192.168.1.105/ysw_front/index.php/user/center"><em class="orange">jeff</a></em></li><li><span>|</span></li>
+					<li><a href="http://192.168.1.105/ysw_front/index.php/user/logout">退出</a></li><li><span>|</span></li>
+										<li><a href="http://192.168.1.105/ysw_front/index.php"><i class="sina"></i></a></li><li><span>|</span></li>
+					<li><a href="http://192.168.1.105/ysw_front/index.php"><i class="tengxun"></i></a></li><li><span>|</span></li>
+					<li><a href="http://192.168.1.105/ysw_front/index.php"><i class="weixin"></i></a></li>
+				</ul>
+			</div>			
+			<div class="nav_left_12">游商网，欢迎您！</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="cop_12">
+        <div class="logo_12"><a href="http://192.168.1.105/ysw_front/index.php"><img src="http://192.168.1.105/resource/public/images/logo.gif"></a></div>
+        <div id="page" class="search">			
+			<form  name="top_searchform" id="top_searchform" action="" method="post">
+				<div id="container" class="content clearfix">
+						<div class="box-163css clearfix">
+							<div class="searchbg"></div>
+							<div class="searchContainer">
+								<div class="searchselect pointer">
+																		 <span id='searchtype' typename="data">资料</span>
+																		<a class='searchselectbtn' href="javascript:void(0);"></a>
+									<ul id='selectTypeList'>
+									  <li typename="cooperation"><a class='current' href="javascript:void(0);">合作</a> </li>
+									  <li typename="invest"><a href="javascript:void(0);">投资</a> </li>
+									  <li typename="trust"><a href="javascript:void(0);">委托</a> </li>
+									  <li typename="products"><a href="javascript:void(0);">产品</a> </li>
+									  <li typename="data"><a href="javascript:void(0);">资料</a> </li>
+									  <li typename="information"><a href="javascript:void(0);">资讯</a> </li>
+									  <li typename="company"><a href="javascript:void(0);">公司</a> </li>
+									  <li class='last'></li>
+									</ul>
+								</div>
+								<input name="keyword" type="text" value="" maxlength="30" id='searchkey' placeholder="请输入关键字" class="search_sou" />
+								<input type="submit" value=" " id="searchbtn" class="searchbtn pointer">
+								<div class="clear"></div>	
+							</div>
+							<div class="clear"></div>
+						</div>
+				 </div>   
+			</form>
+		</div> 
+        <div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div class="menu_12">
+		<ul>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/" id="">首页</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/pioneer" id="pioneer" title="制作中,敬请期待">创业</a></li>
+			<!--<li><a href="#" id="pioneer" title="制作中,敬请期待">创业</a></li>-->
+			<li><a href="http://192.168.1.105/ysw_front/index.php/invest" id="invest">投资</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/cooperation" id="cooperation">合作</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/information" id="information">资讯</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/recruitment" id="recruitment" title="制作中,敬请期待">人才</a></li>
+			<!--<li><a href="#" title="制作中,敬请期待" id="recruitment">人才</a></li>-->
+			<li><a href="http://192.168.1.105/ysw_front/index.php/data" id="data">资料</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/trust" id="trust">委托</a></li>
+			<!--<li><a href="#" title="制作中,敬请期待" id="trust">委托</a></li>-->
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	//下拉登录框
+	$("#jq_topmenu li").hover(function(){
+		$(this).addClass("hover").find("div.jq_hidebox").show();
+	},function(){
+		$(this).removeClass("hover").find("div.jq_hidebox").hide();
+	});
+
+	//搜索
+	$('#searchbtn').click(function(){
+		var site = 'http://192.168.1.105/ysw_front/index.php';
+		var type = $('#searchtype').attr('typename');
+		var keywords = $('#searchkey').val();
+		if(keywords !='')
+		{
+			$('#top_searchform').attr('action',site + '/' + type + '/index/keywords/' + keywords);
+		}
+		else
+		{
+			$('#top_searchform').attr('action',site + '/' + type);
+		}
+	});
+});
+</script><div class="main">
+	<div class="page1">
+	   <!--left start-->
+		<div class="coop_lf">
+			<div class="new">
+			 <div class="new_nav botop">
+				   <div class="new_nav_l">
+					   <span><img src="http://192.168.1.105/resource/public/images/home.gif"></span> 
+					   <span><a href="http://192.168.1.105/ysw_front/index.php">首页</a></span> 
+					   <span> > </span>
+					   <span><a href="http://192.168.1.105/ysw_front/index.php/data">找资料</a></span> 
+				   </div>
+				   <div class="clear"></div>
+			 </div>
+			 <!--资料列表 start-->
+			 <div class="tabPanel">
+				<ul><li><a href="http://192.168.1.105/ysw_front/index.php/data">全部资料</a></li><li class="hit"><a href="http://192.168.1.105/ysw_front/index.php/data/index/category/2">系统策划案</a></li><li><a href="http://192.168.1.105/ysw_front/index.php/data/index/category/3">数值模型</a></li><li><a href="http://192.168.1.105/ysw_front/index.php/data/index/category/4">合同</a></li><li><a href="http://192.168.1.105/ysw_front/index.php/data/index/category/5">报告</a></li><li><a href="http://192.168.1.105/ysw_front/index.php/data/index/category/6">其他</a></li></ul>				<div class="panes">
+					<div class="pane" style="display:block;">
+											</div>
+				</div>
+			</div>
+			<!--资料列表 end-->
+		  </div>
+			<div style="width:740px;height:30px;text-align:center;margin:0 auto; margin-top:30px; margin-bottom:20px;">
+						</div>
+		</div>
+		<!--left end-->
+        <!--right start-->
+        <div class="coop_rt"> 
+            <div class="release"><a href="http://192.168.1.105/ysw_front/index.php/data/add_data"><span class="pub1_tu"></span><p class="rel_pp">上传资料</p></a></div>
+			<div class="coop_newp"><div class="hot_more coop_hot"><strong>新进产品</strong><span><a href="http://192.168.1.105/ysw_front/index.php/products/index/order/create_time-desc">查看更多&gt;&gt; </a></span></div><dl><dt><a title="yy" href="http://192.168.1.105/ysw_front/index.php/products/show/9b41bc7a-d6ab-11e4-b76b-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/public/images/not_pics.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="yy" href="http://192.168.1.105/ysw_front/index.php/products/show/9b41bc7a-d6ab-11e4-b76b-00fff3cb6864">yy</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/3">2.5D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/5">回合制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="tttt" href="http://192.168.1.105/ysw_front/index.php/products/show/165c2334-d6ab-11e4-b76b-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/public/images/not_pics.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="tttt" href="http://192.168.1.105/ysw_front/index.php/products/show/165c2334-d6ab-11e4-b76b-00fff3cb6864">tttt</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/5">回合制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="jefftest" href="http://192.168.1.105/ysw_front/index.php/products/show/6281ec29-d688-11e4-b76b-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427684198.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="jefftest" href="http://192.168.1.105/ysw_front/index.php/products/show/6281ec29-d688-11e4-b76b-00fff3cb6864">jefftest</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/5">回合制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="jkjk" href="http://192.168.1.105/ysw_front/index.php/products/show/8d5d158f-d67e-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/public/images/not_pics.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="jkjk" href="http://192.168.1.105/ysw_front/index.php/products/show/8d5d158f-d67e-11e4-80ff-52540055b5ba">jkjk</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/5">回合制</a><span style="font-family:Arial;">...</span></dd></dl><dl style="border-bottom:none;"><dt><a title="CF穿越前线" href="http://192.168.1.105/ysw_front/index.php/products/show/70ac7f99-d459-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427444147.png"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="CF穿越前线" href="http://192.168.1.105/ysw_front/index.php/products/show/70ac7f99-d459-11e4-80ff-52540055b5ba">CF穿越前线</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/1">3D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/4">即时制</a><span style="font-family:Arial;">...</span></dd></dl></div>			<div class="coop_newp"><div class="hot_more coop_hot"><strong>热门合作</strong><span><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/order/intents-desc">查看更多&gt;&gt;</a></span></div><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/450a65f7-d766-11e4-a671-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1426572211.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/450a65f7-d766-11e4-a671-00fff3cb6864">aaa</a></dd><dd class="coop_newsp">赏金： <span>￥2</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/50fab318-d45b-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/public/images/not_pics.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/50fab318-d45b-11e4-80ff-52540055b5ba">潜艇狂欢 找独代...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/a6d76b8c-d459-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427444147.png"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/a6d76b8c-d459-11e4-80ff-52540055b5ba">CF穿越前线  ...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/e2f078d5-d450-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427440359.png"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/e2f078d5-d450-11e4-80ff-52540055b5ba">开心果宝 找联运...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl style="border-bottom:none;"><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/3051c0f0-d450-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427440097.png"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/3051c0f0-d450-11e4-80ff-52540055b5ba">合金力量2012...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl></div>        </div>
+        <!--right end-->
+        <div class="clear"></div>
+	</div>
+</div><div class="footer">
+	<div class="footer_12">
+		<div class="footer_right"><img src="http://192.168.1.105/resource/public/images/footer_logo.png"></div>
+		<div class="footer_left">© 2014-2014&nbsp;&nbsp;游商网&nbsp;&nbsp;上海大始信息科技有限公司&nbsp;&nbsp;版权所有<br>上海证07xxxx号&nbsp;&nbsp;沪网文[2012]&nbsp;0588-087号&nbsp;&nbsp;沪ICP备11013820号-1<br><a href="http://192.168.1.105/ysw_front/index.php/single/show/6">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php/single/show/4">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php/single/show/5">使用协议</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php">网站地图</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254127945'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254127945' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript" src="http://192.168.1.105/resource/public/js/common.js"></script>
+</body>
+</html>

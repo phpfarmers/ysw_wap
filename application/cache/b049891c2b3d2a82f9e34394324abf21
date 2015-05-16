@@ -1,0 +1,346 @@
+1427800199TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>合作-游商网</title>
+<meta content="创业,游商网,融资网站,游戏品台" name="keywords">
+<meta content="游商网,第一个做融资网络游戏的平台！" name="description">
+<meta content="游商网" name="author">
+<meta content="游商网" name="copyright">
+<meta content="index, follow" name="robots">
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/common.css" type="text/css"/>
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/top12.css" type="text/css"/>
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/login.css" type="text/css">
+<link rel="stylesheet" href="http://192.168.1.105/resource/public/css/search.css" type="text/css">
+<link href="http://192.168.1.105/resource/public/images/i16.png" sizes="16*16" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i32.png" sizes="32*32" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i48.png" sizes="48*48" type="images/png" rel="icon">
+<link href="http://192.168.1.105/resource/public/images/i96.png" sizes="96*96" type="images/png" rel="icon">
+<script type="text/javascript" src="http://192.168.1.105/resource/public/js/jquery.js"></script>
+</head>
+
+<body>
+<div class="header_12">
+	<div class="nav_12">
+		<div class="nav_main_12">
+			<div class="nav_right_12">
+				<ul>
+										<li>你好！<a href="http://192.168.1.105/ysw_front/index.php/user/center"><em class="orange">jeff</a></em></li><li><span>|</span></li>
+					<li><a href="http://192.168.1.105/ysw_front/index.php/user/logout">退出</a></li><li><span>|</span></li>
+										<li><a href="javascript:;" href="javascript:void(0);" onMouseDown="AddFavorite(this, '游商网，一站式游戏商务综合门户', 'http://192.168.1.105/ysw_front/')">收藏本站</a></li><li><span>|</span></li>
+					<li><a href="http://weibo.com/u/5541357487" target="_blank"><i class="sina"></i></a></li>
+					<!--<li><a href="http://192.168.1.105/ysw_front/index.php"><i class="tengxun"></i></a></li><li><span>|</span></li>
+					<li><a href="http://192.168.1.105/ysw_front/index.php"><i class="weixin"></i></a></li>-->
+				</ul>
+			</div>			
+			<div class="nav_left_12">游商网，欢迎您！</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="cop_12">
+        <div class="logo_12"><a href="http://192.168.1.105/ysw_front/index.php"><img src="http://192.168.1.105/resource/public/images/logo.gif"></a></div>
+        <div id="page" class="search">			
+			<form  name="top_searchform" id="top_searchform" action="" method="post">
+				<div id="container" class="content clearfix">
+						<div class="box-163css clearfix">
+							<div class="searchbg"></div>
+							<div class="searchContainer">
+								<div class="searchselect pointer">
+																		 <span id='searchtype' typename="cooperation">合作</span>
+																		<a class='searchselectbtn' href="javascript:void(0);"></a>
+									<ul id='selectTypeList'>
+									  <li typename="cooperation"><a class='current' href="javascript:void(0);">合作</a> </li>
+									  <li typename="invest"><a href="javascript:void(0);">投资</a> </li>
+									  <li typename="trust"><a href="javascript:void(0);">委托</a> </li>
+									  <li typename="products"><a href="javascript:void(0);">产品</a> </li>
+									  <li typename="data"><a href="javascript:void(0);">资料</a> </li>
+									  <li typename="information"><a href="javascript:void(0);">资讯</a> </li>
+									  <li typename="company"><a href="javascript:void(0);">公司</a> </li>
+									  <li class='last'></li>
+									</ul>
+								</div>
+								<input name="keyword" type="text" value="" maxlength="30" id='searchkey' placeholder="请输入关键字" class="search_sou" />
+								<input type="submit" value=" " id="searchbtn" class="searchbtn pointer">
+								<div class="clear"></div>	
+							</div>
+							<div class="clear"></div>
+						</div>
+				 </div>   
+			</form>
+		</div> 
+        <div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div class="menu_12">
+		<ul>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/" id="">首页</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/pioneer" id="pioneer" title="制作中,敬请期待">创业</a></li>
+			<!--<li><a href="#" id="pioneer" title="制作中,敬请期待">创业</a></li>-->
+			<li><a href="http://192.168.1.105/ysw_front/index.php/invest" id="invest">投资</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/cooperation" id="cooperation">合作</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/information" id="information">资讯</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/recruitment" id="recruitment" title="制作中,敬请期待">人才</a></li>
+			<!--<li><a href="#" title="制作中,敬请期待" id="recruitment">人才</a></li>-->
+			<li><a href="http://192.168.1.105/ysw_front/index.php/data" id="data">资料</a></li>
+			<li><a href="http://192.168.1.105/ysw_front/index.php/trust" id="trust">委托</a></li>
+			<!--<li><a href="#" title="制作中,敬请期待" id="trust">委托</a></li>-->
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	//下拉登录框
+	$("#jq_topmenu li").hover(function(){
+		$(this).addClass("hover").find("div.jq_hidebox").show();
+	},function(){
+		$(this).removeClass("hover").find("div.jq_hidebox").hide();
+	});
+
+	//搜索
+	$('#searchbtn').click(function(){
+		var site = 'http://192.168.1.105/ysw_front/index.php';
+		var type = $('#searchtype').attr('typename');
+		var keywords = $('#searchkey').val();
+		if(keywords !='')
+		{
+			$('#top_searchform').attr('action',site + '/' + type + '/index/keywords/' + keywords);
+		}
+		else
+		{
+			$('#top_searchform').attr('action',site + '/' + type);
+		}
+	});
+});
+</script><div class="main">
+        <div class="page1">
+           <!--left start-->
+            <div class="coop_lf">
+            	  <div class="new">
+                        <div class="new_nav">
+						   <div class="new_nav_l">
+							   <span><img src="http://192.168.1.105/resource/public/images/home.gif"></span> 
+							   <span><a href="http://192.168.1.105/ysw_front/index.php">首页</a></span> 
+							   <span> > </span>
+							   <span style="color:#333">所有合作</span> 
+						   </div>
+                           <div class="clear"></div>
+                        </div>
+                        <!--二nav start-->
+                        <div class="er_nav">
+                            <div class="er_xuan">
+                            	<div class="ft er_xuan_a"><span>您已选择：</span></div>
+                                <ul class="ft er_nav_ul">
+																	    <li class="er_xuan_b"><a href="http://192.168.1.105/ysw_front/index.php/cooperation">重新筛选条件</a></li>
+                                    <div class="clear"></div>
+                                </ul>
+                                <div class="clear"></div>
+							</div>
+							                            <dl>
+                                <dt>平台类型：</dt>
+                                <dd>
+									<a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/plat/7">手机游戏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/plat/8">网页游戏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/plat/9">客户端游戏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/plat/6">掌机游戏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/plat/10">电视游戏</a>                                </dd>  
+                            </dl>
+																					                            <dl>
+                                <dt>合作类型：</dt>
+                                <dd>
+									<a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/2">发行/独代</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/6">找渠道</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/7">找外包</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/8">IDC合作</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/9">各类证照申请</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/target/10">宣传合作</a>                                </dd>  
+                            </dl>
+																					                            <div class="er_attrid wrapper" style="display:none;">
+                                <div class="er_nav_pt">项目类型：</div>
+                                <div class="ft er_nav_py">
+									                                	<div class="er_nav_py1">
+										<a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/radio1/1">3D</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/radio1/2">2D</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/radio1/3">2.5D</a>                                    </div>
+																		                                    <div class="er_nav_py1">
+										<a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/radio2/4">即时制</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/radio2/5">回合制</a>                                    </div>
+									<div class="clear"></div>
+																		                                    <div class="er_nav_py1 er_nav_a er_nav_off" style="position: relative;">
+										<a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/6">角色</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/7">策略</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/8">经营</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/9">卡牌</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/10">棋牌</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/11">休闲</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/12">竞技</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/13">动作</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/14">射击</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/15">冒险</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/16">战旗</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/17">竞速</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/18">飞行</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/19">体育</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/20">音乐</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/checkbox/21">养成</a> 
+                                        <div class="clear"></div>
+																				<div class="btn"><i class="moreSleBtn" title="多选" style="bottom:0px;top:15px;"></i></div>
+										                                    </div>
+									<div class="er_nav_py1 er_nav_a er_nav_on" style="display:none;">
+										<label><input type="checkbox" name="product_type" value="6"/><em style="padding-left:6px;">角色</em></label><label><input type="checkbox" name="product_type" value="7"/><em style="padding-left:6px;">策略</em></label><label><input type="checkbox" name="product_type" value="8"/><em style="padding-left:6px;">经营</em></label><label><input type="checkbox" name="product_type" value="9"/><em style="padding-left:6px;">卡牌</em></label><label><input type="checkbox" name="product_type" value="10"/><em style="padding-left:6px;">棋牌</em></label><label><input type="checkbox" name="product_type" value="11"/><em style="padding-left:6px;">休闲</em></label><label><input type="checkbox" name="product_type" value="12"/><em style="padding-left:6px;">竞技</em></label><label><input type="checkbox" name="product_type" value="13"/><em style="padding-left:6px;">动作</em></label><label><input type="checkbox" name="product_type" value="14"/><em style="padding-left:6px;">射击</em></label><label><input type="checkbox" name="product_type" value="15"/><em style="padding-left:6px;">冒险</em></label><label><input type="checkbox" name="product_type" value="16"/><em style="padding-left:6px;">战旗</em></label><label><input type="checkbox" name="product_type" value="17"/><em style="padding-left:6px;">竞速</em></label><label><input type="checkbox" name="product_type" value="18"/><em style="padding-left:6px;">飞行</em></label><label><input type="checkbox" name="product_type" value="19"/><em style="padding-left:6px;">体育</em></label><label><input type="checkbox" name="product_type" value="20"/><em style="padding-left:6px;">音乐</em></label><label><input type="checkbox" name="product_type" value="21"/><em style="padding-left:6px;">养成</em></label>										<div class="clear"></div>
+                                        <div class="er_nav_py2"><a href="javascript:void(0);" class="submit">确定</a> <a href="javascript:void(0);" class="cancel">取消</a></div>
+									</div>
+									                                </div>
+                            </div>
+							<div class="er_more"><span class="zk">更多选项（项目类型）</span></div>
+							                            <div class="clear"></div>
+                        </div>
+                        <!--二nav end-->
+                        <!--hezuo  start-->
+                        <div class="coopcon">
+                           <div class="coop_hz">
+                                 <div class="coop_hz_x">
+									<span><a href="javascript:void(0);" class="curr" title="综合排序">综合 <img src="http://192.168.1.105/resource/public/images/lace/jiant.png"></a></span><span><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/order/open_time-desc" title="最新发布">发布时间 <img src="http://192.168.1.105/resource/public/images/lace/jiant.png"></a></span><span><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/order/intents-desc" title="从最多到最少">合作意向 <img src="http://192.168.1.105/resource/public/images/lace/jiant.png"></a></span><span class="coop_zh_s"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/order/amount-desc" title="从最高到最少">价格 <img src="http://192.168.1.105/resource/public/images/lace/jiant.png"></a></span>                                 </div>
+                                 <div class="coop_hz_q">
+                                        <ul class="topmenu" id="jq_topmenu">
+                                            <li class="webnav" style="background:none">
+                                                <strong class="icon_arr"><a href="user/login"> 所有地区 </a></strong>
+                                                <div class="jq_hidebox">
+                                                   <dl>
+														<dd><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/16-25-31">江浙沪</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/76-77-79-80-82-95-96">珠三角</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/2-27-146">京津唐</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/12-15-18-212">东三省</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/33-34-35-3383">港澳台</a></dd><dd><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/2">北京</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/25">上海</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/32">重庆</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/76">广州</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/77">深圳</a></dd><dd class="no_bord"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/2">北京</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/3">安徽</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/4">福建</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/5">甘肃</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/6">广东</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/7">广西</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/8">贵州</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/9">海南</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/10">河北</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/11">河南</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/12">黑龙江</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/13">湖北</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/14">湖南</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/15">吉林</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/16">江苏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/17">江西</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/18">辽宁</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/19">内蒙古</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/20">宁夏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/21">青海</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/22">山东</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/23">山西</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/24">陕西</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/25">上海</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/26">四川</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/27">天津</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/28">西藏</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/29">新疆</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/30">云南</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/31">浙江</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/32">重庆</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/33">香港</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/34">澳门</a><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa/region/35">台湾</a></dd><div class="clear"></div>                                                   </dl>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                 </div>
+                           </div>
+                   		   <div class="clear"></div>
+						   						   <div class="coop_nr">
+								<div class="ft coop_nr_a">
+								   <div class="mb coop_nr_a1"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/450a65f7-d766-11e4-a671-00fff3cb6864" title="aaa">aaa</a></div>
+								   <div class="coop_nr_a2"><span>0人浏览</span>  |  <span class="cs">0</span> 人有意向</div>
+								</div>
+								<div class="ft coop_nr_b">
+									<div class="mb">找投资</div>
+									<div><span class="cs">￥2</span></div>
+								</div>
+								<div class="ft coop_nr_c">
+									<div class="mb">2015-03-31 发布</div>
+									<div>
+									<img src="http://192.168.1.105/resource/public/images/lace/huixx.png"><img src="http://192.168.1.105/resource/public/images/lace/huixx.png"><img src="http://192.168.1.105/resource/public/images/lace/huixx.png"><img src="http://192.168.1.105/resource/public/images/lace/huixx.png"><img src="http://192.168.1.105/resource/public/images/lace/huixx.png">									</div>
+								</div>
+								<div class="ft coop_nr_d">
+									<div class="mb1">
+									<span>长期有效</span>									</div>
+									<div class="sc" style=" display:none;" rel="450a65f7-d766-11e4-a671-00fff3cb6864"><a href="javascript:void(0);">收藏</a></div>
+								</div>
+								<div class="clear"></div>
+						   </div>
+						   <div class="clear"></div>
+						                          </div>
+                       <!--hezuo  end-->
+                  </div>
+                  <div class="clear"></div>
+                  <!--分页 开始-->
+                  <div style="width:920px;height:44px;text-align:center;margin:0 auto; margin-top:20px; margin-bottom:30px;float:left;">
+					 			
+				  </div>
+                  <!--分页 结束-->
+            </div>
+            <!--left end--> 
+            <!--right start-->
+            <div class="coop_rt">
+				<div class="release"><a href="http://192.168.1.105/ysw_front/index.php/user/add_cooperation"><span class="pub1_tu"></span><p class="rel_pp">我要发布</p></a></div>
+				<div class="coop_newp"><div class="hot_more coop_hot"><strong>新进产品</strong><span><a href="http://192.168.1.105/ysw_front/index.php/products/index/order/create_time-desc">查看更多&gt;&gt; </a></span></div><dl><dt><a title="jefftest" href="http://192.168.1.105/ysw_front/index.php/products/show/6281ec29-d688-11e4-b76b-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427684198.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="jefftest" href="http://192.168.1.105/ysw_front/index.php/products/show/6281ec29-d688-11e4-b76b-00fff3cb6864">jefftest</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/5">回合制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="CF穿越前线" href="http://192.168.1.105/ysw_front/index.php/products/show/70ac7f99-d459-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427444147.png"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="CF穿越前线" href="http://192.168.1.105/ysw_front/index.php/products/show/70ac7f99-d459-11e4-80ff-52540055b5ba">CF穿越前线</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/1">3D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/4">即时制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="开心果宝" href="http://192.168.1.105/ysw_front/index.php/products/show/a72af7d1-d450-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427440359.png"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="开心果宝" href="http://192.168.1.105/ysw_front/index.php/products/show/a72af7d1-d450-11e4-80ff-52540055b5ba">开心果宝</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/4">即时制</a><span style="font-family:Arial;">...</span></dd></dl><dl><dt><a title="合金力量2012" href="http://192.168.1.105/ysw_front/index.php/products/show/0ac870c5-d450-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427440097.png"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="合金力量2012" href="http://192.168.1.105/ysw_front/index.php/products/show/0ac870c5-d450-11e4-80ff-52540055b5ba">合金力量2012</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/4">即时制</a><span style="font-family:Arial;">...</span></dd></dl><dl style="border-bottom:none;"><dt><a title="萌主三国2" href="http://192.168.1.105/ysw_front/index.php/products/show/362d54ba-d44d-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427438895.jpg"></a></dt><dd class="newcon_aa" style="margin:10px 0px 0px 0px;"><a title="萌主三国2" href="http://192.168.1.105/ysw_front/index.php/products/show/362d54ba-d44d-11e4-80ff-52540055b5ba">萌主三国2</a></dd><dd>类型：<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio1/2">2D</a>、<a href="http://192.168.1.105/ysw_front/index.php/products/index/radio2/4">即时制</a><span style="font-family:Arial;">...</span></dd></dl></div>				<div class="coop_newp"><div class="hot_more coop_hot"><strong>热门合作</strong><span><a href="http://192.168.1.105/ysw_front/index.php/cooperation/index/order/intents-desc">查看更多&gt;&gt;</a></span></div><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/450a65f7-d766-11e4-a671-00fff3cb6864"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1426572211.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/450a65f7-d766-11e4-a671-00fff3cb6864">aaa</a></dd><dd class="coop_newsp">赏金： <span>￥2</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/235f4304-d42b-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427423819.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/235f4304-d42b-11e4-80ff-52540055b5ba">乱斗联盟找独代</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/bc1a00d0-d1f6-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427181734.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/bc1a00d0-d1f6-11e4-80ff-52540055b5ba">舌尖中国  找独...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/2f63acdb-d432-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427427221.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/2f63acdb-d432-11e4-80ff-52540055b5ba">植物大战昆虫PK...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl><dl style="border-bottom:none;"><dt><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/10f748d6-d1fb-11e4-80ff-52540055b5ba"><img width="60" height="60" src="http://192.168.1.105/resource/uploadfile/image/product/1427182521.jpg"></a></dt><dd class="coop_newdd"><a href="http://192.168.1.105/ysw_front/index.php/cooperation/show/10f748d6-d1fb-11e4-80ff-52540055b5ba">七宝联萌 找联运...</a></dd><dd class="coop_newsp">赏金： <span>商议</span></dd></dl></div>				
+		<div class="coop_newp">
+			<div class="coop_bigt">
+			   <ul>
+				   <li><a href="http://192.168.1.105/ysw_front/index.php/data/add_data"><img src="http://192.168.1.105/resource/public/images/big_tu/big1.jpg" /></a></li>
+				   <li><a href="http://192.168.1.105/ysw_front/index.php/information/index/category/7"><img src="http://192.168.1.105/resource/public/images/big_tu/big2.jpg" /></a></li>
+				   <li><a href="http://192.168.1.105/ysw_front/index.php/trust"><img src="http://192.168.1.105/resource/public/images/big_tu/big3.jpg" /></a></li>
+			   </ul>
+			</div>
+		</div>
+		            </div>
+            <!--right end-->
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	//更多选项展开/收起
+	$(".er_more").click(function() {
+		var display = 'none';
+		var url = 'http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa';
+		if(display == 'block')
+		{
+			$(".wrapper").slideToggle(function(){
+				location.href = url+'/display/none';
+			});
+			$('.zk').html('更多选项（项目类型）');
+		}
+		else
+		{
+			$(".wrapper").slideToggle(function(){
+				location.href = url+'/display/block';
+			});
+			$('.zk').html('收起');
+		}
+	});
+
+	//展开多选效果
+	$('.btn').click(function(){
+		var display = $(this).css('display');
+		if(display == 'block')
+		{
+			$('.er_nav_off').hide();
+			$('.er_nav_on').show();
+			$(this).hide();
+		}
+	});
+
+	//取消多选效果
+	$('.cancel').click(function(){
+		$('.er_nav_off').show();
+		$('.er_nav_on').hide();
+		$('.btn').show();
+	});
+
+	//提交多选属性
+	$('.submit').click(function(){
+		var url = 'http://192.168.1.105/ysw_front/index.php/cooperation/index/keywords/aa';
+		var str='';
+		$(".er_nav_on label input[type=checkbox]").each(function(){
+			if(this.checked){
+				str += $(this).val()+'-';
+			}
+		});
+		location.href = url +'/checkbox/'+ str;
+		$('.btn').hide();
+	});
+
+	//打开页面判断是否选择有属性
+	$('.er_xuan').each(function(){
+		if($(this).find('.on').length=='0')
+		{
+			$('.er_xuan').hide();
+		}
+	});
+
+	//合作收藏
+	$('.sc').click(function(){
+		var uuid ='a7423342-75f5-11e4-ae65-52540039b119';
+		//alert(uuid);
+		if($.trim(uuid).length != 0)
+		{
+			var task_uuid = $(this).attr('rel');
+			$.get("http://192.168.1.105/ysw_front/index.php/cooperation/collect"+'/'+task_uuid,function(data){
+				if(data == 'true')
+				{
+					alert('成功添加收藏！');
+				}
+				else
+				{
+					alert('不可重复收藏！');
+				}
+			});
+		}
+		else
+		{
+			alert('登录之后才可以收藏次合作！');
+		}
+	});
+
+	//列表鼠标移过变化背景颜色、显示收藏按钮
+	$(".coop_nr").hover(function(){
+		$(this).find(".sc").show();
+		$(this).addClass("coo_lbj");
+	},function(){
+		$(".coop_nr .sc").hide();
+		$(".coop_nr").removeClass("coo_lbj");
+	});
+});
+</script><div class="footer">
+	<div class="footer_12">
+		<div class="footer_right"><img src="http://192.168.1.105/resource/public/images/footer_logo.png"></div>
+		<div class="footer_left">© 2014-2014&nbsp;&nbsp;游商网&nbsp;&nbsp;上海大始信息科技有限公司&nbsp;&nbsp;版权所有<br>上海证07xxxx号&nbsp;&nbsp;沪网文[2012]&nbsp;0588-087号&nbsp;&nbsp;沪ICP备11013820号-1<br><a href="http://192.168.1.105/ysw_front/index.php/single/show/6">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php/single/show/4">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php/single/show/5">使用协议</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://192.168.1.105/ysw_front/index.php">网站地图</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254127945'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254127945' type='text/javascript'%3E%3C/script%3E"));</script>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript" src="http://192.168.1.105/resource/public/js/common.js"></script>
+</body>
+</html>
