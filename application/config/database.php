@@ -47,11 +47,7 @@
 
 $active_group = 'default';
 $active_record = TRUE;
-/*
-$db['default']['hostname'] = '61.153.99.156';
-$db['default']['username'] = 'lhx';
-$db['default']['password'] = 'lhx123';
-*/
+
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = '';
